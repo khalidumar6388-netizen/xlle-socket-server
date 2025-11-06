@@ -1,4 +1,10 @@
 {
+  "type": "module",
+  "name": "xlle-socket-server",
+  "version": "1.0.0",
+  ...
+}
+{
   "name": "xlle-socket-server",
   "version": "1.0.0",
   "main": "server.js",
